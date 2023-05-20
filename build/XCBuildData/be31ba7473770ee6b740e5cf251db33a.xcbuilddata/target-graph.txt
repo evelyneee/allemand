@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Allemand in Allemand, no dependencies

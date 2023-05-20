@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "4eead35c5f742b2b3268898c0af454c5c34552fe68147e0b2f67049f52164f76"
-build_start_time: [1684603517, 472114000]
-build_end_time: [1684603521, 553464000]
-inputs:
-  "/Users/charlotte/Developer/Allemand/Allemand/main.swift": [1684603237, 352564138]
